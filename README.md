@@ -8,7 +8,7 @@
 
 ```C#
   #region HideNasty
-    // is is very-very luamaro
+    // it's very-very luamaro
   #endregion
 ```
 
