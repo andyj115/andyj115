@@ -12,6 +12,12 @@
   #endregion
 ```
 
+```C#
+  #region GoodPractices
+    // don't use regions
+  #endregion
+```
+
 ```geojson
 {
   "type": "Polygon",
