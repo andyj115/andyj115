@@ -15,7 +15,6 @@
 ```C#
   #region GoodPractices
     // don't use C# regions
-    // consider another programming language
   #endregion
 ```
 
