@@ -1,23 +1,5 @@
 ### Hi there 🍀
 
-```C#
-  #region Area51
-    // silence is golden
-  #endregion
-```
-
-```C#
-  #region HideNasty
-    // it's very-very luamaro
-  #endregion
-```
-
-```C#
-  #region GoodPractices
-    // don't use C# regions
-  #endregion
-```
-
 ```geojson
 {
   "type": "Polygon",
